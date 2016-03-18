@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>O jogo da velha é um jogo e passatempo popular.  Seu nome teria se originado na Inglaterra, quando nos finais da tarde, mulheres se reuniram para conversar e bordar. As mulheres idosas, por não terem mais condições de bordar em razão da fraqueza da visão, jogavam este jogo simples, que passou a ser conhecido como o da "velha". Muito popular por sua disponibilidade, pode ser jogado sobre um tabuleiro ou mesmo sendo riscado sobre um pedaço de papel ou mesa.</value>
+  </data>
 </root>
